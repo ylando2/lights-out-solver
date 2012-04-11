@@ -8,7 +8,7 @@ The game is played on 5X5 grid of buttons. Clicking on a button toggle the light
 and four neighbors: upper,lower,left and right.   
 Here is a wikipedia [link](http://en.wikipedia.org/wiki/Lights_Out_%28game%29) about it.
 
-![Image of a light out game](https://github.com/ylando2/light-out-solver/blob/master/Paint_by_numbers.gif?raw=true)
+![Image of a light out game](https://github.com/ylando2/lights-out-solver/blob/master/800px-LightsOutIllustration.svg.png?raw=true)
 
 This program solve the game and draw an image of the solution on the repl.
 To win the game click on the yellow buttons.
