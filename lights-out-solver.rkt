@@ -139,7 +139,7 @@
 ;;1 - light on.
 ;;'click - a square that is a part of the solution. 
 (define (board-with-solution board solution)
-  (let ([vec (list->vector *board*)])
+  (let ([vec (list->vector board)])
     (for-each 
      (lambda (c) 
        (let ([x (car c)]
